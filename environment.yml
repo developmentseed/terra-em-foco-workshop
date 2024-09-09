@@ -1,4 +1,4 @@
-name: gfts
+name: terra-em-foco
 channels:
   - conda-forge
   - defaults
