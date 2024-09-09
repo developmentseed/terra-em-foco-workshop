@@ -7,7 +7,7 @@ dependencies:
   - rasterio
   - numpy
   - pandas
-  - pystac_client
+  - pystac-client
   - boto3
   - pip:
       - stacchip
