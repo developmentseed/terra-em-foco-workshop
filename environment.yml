@@ -1,0 +1,13 @@
+name: gfts
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - rasterio
+  - numpy
+  - pandas
+  - pystac_client
+  - boto3
+  - pip:
+      - stacchip
